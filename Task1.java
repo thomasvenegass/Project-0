@@ -21,9 +21,6 @@ public class TaskA
         double OzFlour = 6 * (shortbread/24);
         double g_flour = 180 * (shortbread/24);
 
-        System.out.println("\nThe ingredients for " + shortbread + " shortbread are:\n");
-        System.out.println(OzButter + "oz or " + g_butter + "g butter");
-        System.out.println(OzSugar + "oz or " + g_sugar + "g sugar");
-        System.out.println(OzFlour + "oz or " + g_flour + "g flour");
+        
     }
 }
